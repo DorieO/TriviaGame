@@ -1,0 +1,33 @@
+head{
+	max-height: 300px;
+	width:100%;
+	background-color: #6495ed;
+}
+
+body{
+	width:100%;
+	height:600px;
+	background-color: #afeeee;
+}
+
+div.firstQuestion{
+	align-items:center;
+}
+
+#firstAnswers{
+	text-align:center;
+}
+div.secondQuestion{
+	align-items:center;
+}
+
+#secondAnswers{
+	text-align:center;
+}
+div.thirdQuestion{
+	align-items:center;
+}
+
+#thirdAnswers{
+	text-align:center;
+}
